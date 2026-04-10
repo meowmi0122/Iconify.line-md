@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<defs>
+		<mask id="SVGYyBrue8n">
+			<path d="M7.88 12l2.75 -2.75h2.75l2.75 2.75l-0.46 0c0 2.03 -1.64 3.67 -3.67 3.67c-2.03 0 -3.67 -1.64 -3.67 -3.67Z" fill="#fff" />
+		</mask>
+	</defs>
+	<path d="M0 0h24v24H0z" fill="currentColor" mask="url(#SVGYyBrue8n)" />
+</svg>

@@ -1,0 +1,18 @@
+{
+  "viewBox": "0 0 24 24",
+  "content": "<path class=\"a0m25c gos8dj\"/><path class=\"a0m25c b6nptq\"/>",
+  "fallback": "line-md:arrow-small-down",
+  "keyframes": {
+    "so-from-16": "0%{stroke-dashoffset:16}",
+    "so-to-0": "100%{stroke-dashoffset:0}"
+  },
+  "classes": {
+    "a0m25c": "stroke-linecap:round;stroke-linejoin:round;stroke:currentColor;stroke-width:2px;fill:none;",
+    "gos8dj": "d:path('M12 5l0 13.5');",
+    "b6nptq": "d:path('M12 19l5 -5M12 19l-5 -5');"
+  },
+  "animations": {
+    "gos8dj": "stroke-dasharray:16;animation:0.3s linear forwards so-from-16;",
+    "b6nptq": "stroke-dasharray:10;stroke-dashoffset:10;animation:0.2s linear 0.3s forwards so-to-0;"
+  }
+}

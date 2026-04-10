@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<defs>
+		<mask id="SVGuJ9bqRmE">
+			<path d="M11 9h6v10h-6.5l-2 -2h-2.5v-6.5l1.5 -1.5ZM17 13h3.83v-3h0.96v8h-0.96v-3h-3.83Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+		</mask>
+	</defs>
+	<path d="M0 0h24v24H0z" fill="currentColor" mask="url(#SVGuJ9bqRmE)" />
+</svg>

@@ -1,0 +1,14 @@
+{
+  "viewBox": "0 0 24 24",
+  "content": "<path class=\"xr2bya\"/>",
+  "fallback": "line-md:chevron-small-up",
+  "keyframes": {
+    "so-from-10": "0%{stroke-dashoffset:10}"
+  },
+  "classes": {
+    "xr2bya": "d:path('M12 9l-5 5M12 9l5 5');stroke-linecap:round;stroke-linejoin:round;stroke:currentColor;stroke-width:2px;fill:none;"
+  },
+  "animations": {
+    "xr2bya": "stroke-dasharray:10;animation:0.4s linear forwards so-from-10;"
+  }
+}

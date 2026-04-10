@@ -1,0 +1,14 @@
+{
+  "viewBox": "0 0 24 24",
+  "content": "<path class=\"w3lddg\"/>",
+  "fallback": "line-md:thumbs-up",
+  "keyframes": {
+    "so-from-76": "0%{stroke-dashoffset:76}"
+  },
+  "classes": {
+    "w3lddg": "d:path('M7 11l5 -8l3 1l-1 6h7v3l-3 7h-11h-4v-9h4v9');stroke-linecap:round;stroke-linejoin:round;stroke:currentColor;stroke-width:2px;fill:none;"
+  },
+  "animations": {
+    "w3lddg": "stroke-dasharray:76;animation:0.6s linear forwards so-from-76;"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "viewBox": "0 0 24 24",
+  "content": "<path class=\"qa-o7h zntd8k\"/><path class=\"qa-o7h t5zxbs\"/>",
+  "fallback": "line-md:marker",
+  "keyframes": {
+    "so-from-46": "0%{stroke-dashoffset:46}",
+    "fade-to-1": "100%{opacity:1}",
+    "d-9jpx1r": "0%{d:path('M9 17l0 0l-2 -2l0 0Z')}"
+  },
+  "classes": {
+    "qa-o7h": "stroke-linecap:round;stroke-linejoin:round;stroke:currentColor;fill:none;",
+    "zntd8k": "d:path('M6 14l11 -11l4 4l-11 11l-4 -4Z');stroke-width:2px;",
+    "t5zxbs": "d:path('M9 17l-2.5 2.5l-4 0l4.5 -4.5Z');"
+  },
+  "animations": {
+    "zntd8k": "stroke-dasharray:46;animation:0.5s linear forwards so-from-46;",
+    "t5zxbs": "opacity:0;animation:0s 0.5s forwards fade-to-1, 0.3s linear 0.5s forwards d-9jpx1r;"
+  }
+}

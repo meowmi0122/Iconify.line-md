@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<defs>
+		<mask id="SVGIlNEgePq">
+			<g fill="#fff">
+				<circle cx="13" cy="15" />
+				<circle cx="13" cy="6" />
+				<circle cx="11" cy="17" />
+				<circle cx="14" cy="18" />
+			</g>
+		</mask>
+	</defs>
+	<path d="M0 0h24v24H0z" fill="currentColor" mask="url(#SVGIlNEgePq)" />
+</svg>

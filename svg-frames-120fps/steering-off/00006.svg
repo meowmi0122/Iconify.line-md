@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<defs>
+		<mask id="SVGETyHAbUU">
+			<path d="M10.88 12l0.75 -0.75h0.75l0.75 0.75l-0.13 0c0 0.55 -0.45 1 -1 1c-0.55 0 -1 -0.45 -1 -1Z" fill="#fff" />
+		</mask>
+	</defs>
+	<path d="M0 0h24v24H0z" fill="currentColor" mask="url(#SVGETyHAbUU)" />
+</svg>
